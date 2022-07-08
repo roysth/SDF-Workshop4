@@ -1,0 +1,7 @@
+<suite name="Suite1" verbose="2" >
+  <test name="Regression1">
+    <classes>
+      <class name="vtp2022.day3.workshop.AppTestNG"/>
+    </classes>
+  </test>
+</suite>
